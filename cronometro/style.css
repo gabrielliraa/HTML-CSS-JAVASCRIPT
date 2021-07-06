@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+.tela{
+    text-align: center;
+    background-color: white;
+    margin-top: 300px;
+    margin-left: 600px;
+    margin-right: 600px;
+    padding: 10px;
+    padding-top: 20px;
+    border: solid blue 1px;
+}
+
+.iniciar{
+    border-radius: 45%;
+    padding: 10px;
+    background-color:greenyellow;
+    border: solid greenyellow;
+    margin-right: 2px;
+}
+
+.parar{
+    border-radius: 45%;
+    padding: 10px;
+    background-color:rgb(245, 68, 68);
+    border: solid rgb(245, 68, 68);
+    margin-right: 2px;
+}
+
+.zerar{
+    border-radius: 45%;
+    padding: 10px;
+    background-color:yellow;
+    border: solid yellow;
+    
+
+}
+
+.iniciar:hover{
+    background-color:rgb(137, 211, 26);
+    border: solid rgb(137, 211, 26);
+}
+
+.parar:hover{
+    background-color:rgb(243, 50, 50);
+    border: solid rgb(243, 50, 50);
+}
+
+.zerar:hover{
+    background-color:rgb(218, 218, 5);
+    border: solid rgb(218, 218, 5);
+}
+
+
