@@ -1,0 +1,27 @@
+#contador{
+    text-align: center;
+    margin-top: 40px;
+}
+
+#tabuleiro{
+    width: 318px;
+    margin: auto;
+    margin-top: 50px;
+   
+}
+
+.posicao{
+    width: 100px;
+    height: 70px;
+    border: solid 2px black;
+    float: left;
+    text-align: center;
+    padding-top: 30px;
+    background-color:white;
+}
+
+.posicao img{
+    width: 50px;
+}
+
+
